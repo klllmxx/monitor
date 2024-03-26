@@ -1,0 +1,12 @@
+## Welcome To Using This Webhook!
+## Inside Content As Setting Configuration Files，You Can Setting Values For Changes!
+## Happy Using This APP，Having Fun!!!
+# Log Setting
+Basic:
+  logname: "webhook.log"
+  logdir: ./log
+  count: 5
+
+# Webhook Setting
+Url:
+  source: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=040cf1d2-435c-44b8-88f1-bbc1946e8b24"
